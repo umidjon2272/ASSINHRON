@@ -16,7 +16,7 @@
 body {
     background: #010611;
     padding: 24px 14px;
-    color: #1f2937;
+    color: #cfd2d7;
 }
 
 .title {
@@ -24,12 +24,12 @@ body {
     font-size: 26px;
     font-weight: 700;
     margin-bottom: 18px;
-    color: #111827;
+    color: #f0f0f0;
 }
 
 
 .card {
-    background: #3300ff74;
+    background: #d44e0b2a;
     border: 1px solid #e5e7eb;
     border-radius: 14px;
     padding: 16px;
@@ -39,16 +39,18 @@ body {
  .card h3 {
     font-size: 18px;
     font-weight: 700;
-    color: #0f172a;
+    color: #ffffff;
     margin-bottom: 10px;
  }
 .row {
     font-size: 18px;
-    color: #000307;
+    color: #fdfeff;
     margin: 6px 0;
     line-height: 1.4;
 } 
-
+.email a{
+  color: rgb(153, 13, 13);
+}
 
 
 
@@ -57,7 +59,7 @@ body {
     margin-top: 10px;
     padding-top: 10px;
     border-top: 1px dashed #e5e7eb;
-    color: #000000;
+    color: #f3f3f3;
     font-size: 16px;
     line-height: 1.5;
 }
